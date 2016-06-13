@@ -1,0 +1,7 @@
+{
+  "galaxy.meteor.com": {
+     "env": {
+       "MONGO_URL": "mongodb://UmassAdmin:sk84ever1@ds051831.mlab.com:51831/umassrewards_mdb"
+     }
+   }
+}
